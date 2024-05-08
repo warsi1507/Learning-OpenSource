@@ -1,1 +1,5 @@
- 
+1. git status
+2. git add names.txt
+3. git commit -m "names.txt file added"
+4. git config --global user.email "mdsamarwarsi@outlook.com"
+5. git config --global user.name "Warsi62"
