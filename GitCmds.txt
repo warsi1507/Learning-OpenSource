@@ -8,3 +8,9 @@
 8. git restore --staged names.txt
 9. git status
 10. git log
+11. git reset <prev git command add>
+12. git stash 
+13. git stash clear
+14. git stash pop
+15. git remote add origin https://github.com/warsi1507/Learning-OpenSource
+16. git remote -v
