@@ -3,3 +3,8 @@
 3. git commit -m "names.txt file added"
 4. git config --global user.email "mdsamarwarsi@outlook.com"
 5. git config --global user.name "Warsi62"
+6. git add .
+7. git commit -m "names.txt files modified"
+8. git restore --staged names.txt
+9. git status
+10. git log
