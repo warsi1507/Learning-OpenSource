@@ -14,3 +14,7 @@
 14. git stash pop
 15. git remote add origin https://github.com/warsi1507/Learning-OpenSource
 16. git remote -v
+17. git branch feature //-> new branch
+18. git checkout feature //-> change head to feature branch 
+19. git merge feature //-> merging with main branch
+20. 
